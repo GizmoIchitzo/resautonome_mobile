@@ -1,0 +1,1 @@
+   " [{     \"key\": \"myparameter1\",  \"value\": \"6\",   \"unit\": \"V\" }, {   \"key\": \"myparameter2\",  \"value\": \"0.1\",   \"unit\": \"mA\" }, {     \"key\": \"myparameter3\",   \"value\": \"6\", \"unit\": \"V\"  }, { \"key\": \"myparameter4\",\"value\": \"40\",\"unit\": \"T°\"  }, {   \"key\": \"myparameter5\", \"value\": \"1\",  \"unit\": \"unité\" }]"
