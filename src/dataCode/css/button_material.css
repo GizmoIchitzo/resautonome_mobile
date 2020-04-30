@@ -29,6 +29,7 @@
 .btn span {
     display: block;
     padding: 12px 24px;
+    font-weight: 700;
 }
 
 .btn:before {
